@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">HELLO PEOPLE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
 
-<!--
-**DCGUY009/DCGUY009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- 📊 I love to analyse data and play with it.
+  
+- 🗺 I am currently working on Indoor navigation system.
 
-Here are some ideas to get you started:
+- ⚡ You can reach me at **samudrala.santhosh.19cse@bmu.edu.in**
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DCGUY009&theme=dark&show_icons=true" alt="samudralasanthosh" /></p>
+
+<!-- <h3 align="left"><b>My Badges: </b></h3>
+
+<a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100>
+</a> -->
+
+<h3 align="left"><b>Connect with me here:</b></h3>
+<p align="left">
+
+
+<a href="https://twitter.com/santoshsamudra3" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=" santoshsamudra3" height="30"/></a>
+<a href="https://www.linkedin.com/in/samudralasanthosh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samudralasanthosh" height="30"/></a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=DCGUY009&color=orange&label=👀👀👀)
