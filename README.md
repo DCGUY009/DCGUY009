@@ -1,4 +1,4 @@
-<h1 align="center">HELLO PEOPLE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
+<h1 align="center">HELLO DEALERS OF 0's & 1's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
 
   
 - 📊 I love to analyse data and play with it.
