@@ -10,11 +10,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DCGUY009&theme=dark&show_icons=true" alt="samudralasanthosh" /></p>
 
-<!-- <h3 align="left"><b>My Badges: </b></h3>
+ <h3 align="left"><b>My Badges: </b></h3>
 
-<a href="https://dev.to/badge/hacktoberfest-2020" target="_blank">
+<a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width=100>
-</a> -->
+</a>
 
 <h3 align="left"><b>Connect with me here:</b></h3>
 <p align="left">
