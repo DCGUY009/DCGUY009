@@ -1,7 +1,7 @@
 <h1 align="center">HELLO DEALERS OF 0's & 1's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h1>
 
   
-- 📊 I love to analyse data and play with it.
+- 📊 I am currently looking to work on something interesting research topic in machine learning, can ping me for collaboration through mail.
   
 - 🗺 I am currently working on Indoor navigation system.
 
