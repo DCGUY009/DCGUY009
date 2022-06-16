@@ -1,4 +1,4 @@
-<h1 align="center">HELLO DEALERS OF 0's & 1's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1000px"></h1>
+<h1 align="center">HELLO DEALERS OF 0's & 1's </h1>
 
   
 - 📊 Doing research on customer segmentation and looking for further ideas to research in machine learning.
