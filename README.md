@@ -1,7 +1,4 @@
 <h1 align="center">HELLO DEALERS OF 0's & 1's </h1>
-
-  
-- 📊 Doing research on customer segmentation and looking for further ideas to research in machine learning.
   
 - 🗺 I am currently working on Indoor navigation system.
 
