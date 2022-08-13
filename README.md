@@ -23,4 +23,4 @@
 <a href="https://www.linkedin.com/in/samudralasanthosh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samudralasanthosh" height="30"/></a>
 </p>
 
-##![](https://komarev.com/ghpvc/?username=DCGUY009&color=orange&label=👀👀👀)
+/![](https://komarev.com/ghpvc/?username=DCGUY009&color=orange&label=👀👀👀)
