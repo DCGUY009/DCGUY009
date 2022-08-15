@@ -7,7 +7,7 @@
 - 💥 Message me on linkedin or send a mail for collaboration on research projects. 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DCGUY009&theme=dark&show_icons=true" alt="samudralasanthosh" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DCGUY009&theme=dark&show_icons=true" alt="samudralasanthosh" /></p> --->
 
  <h3 align="left"><b>My Badges: </b></h3>
 
