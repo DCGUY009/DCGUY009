@@ -15,7 +15,8 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100>
 </a>
 
-
+<h3 align="left"><b>Stats:</b></h3>
+<p align="left">
 
 <td><img src="https://github-readme-stats.vercel.app/api?username=DCGUY009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DCGUY009&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DCGUY009" /></td>
