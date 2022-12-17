@@ -18,8 +18,8 @@
 <h3 align="left"><b>Connect with me here:</b></h3>
 <p align="left">
 
-<td><img src="https://github-readme-stats.vercel.app/api?username=Deepak-Perla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepak-Perla&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Deepak-Perla" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=DCGUY009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DCGUY009&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Deepak-Perla" /></td>
 
 
 <a href="https://twitter.com/santoshsamudra3" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=" santoshsamudra3" height="30"/></a>
