@@ -1,6 +1,6 @@
 <h1 align="center">HELLO DEALERS OF 0's & 1's </h1>
   
-- 🗺 I am currently working on Indoor navigation system.
+- 🗺 I am looking to collaborate on Data Science and Machine Learning Projects.
 
 - ⚡ You can reach me at **samudrala.santhosh.19cse@bmu.edu.in**
 
