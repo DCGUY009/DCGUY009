@@ -1,10 +1,10 @@
 <h1 align="center">HELLO DEALERS OF 0's & 1's </h1>
   
-- 🗺 I am looking to collaborate on Data Science and Machine Learning Projects.
+- 🗺 I am currently learning everything about Generative AI.
 
 - ⚡ You can reach me at **samudrala.santhosh.19cse@bmu.edu.in**
 
-- 💥 Message me on linkedin or send a mail for collaboration on research projects. 
+- 💥 Message me on linkedin or send a mail to connect with me.
 <hr>
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DCGUY009&theme=dark&show_icons=true" alt="samudralasanthosh" /></p> --->
